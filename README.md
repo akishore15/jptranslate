@@ -33,7 +33,7 @@ pip install googletrans==4.0.0-rc1 pyttsx3
 ```
 ## Usage:
 
-1. After installing the dependencies, run the script `translate.py`:
+1. After installing the dependencies, run the script `main.py`:
 
 ```bash
 python3 translate.py
