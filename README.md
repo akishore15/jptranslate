@@ -13,6 +13,7 @@
 - Python 3.6 or later
 - `googletrans` library for translation
 - `pyttsx3` library for text-to-speech functionality
+- Termux
 
 ## Installation:
 
@@ -70,16 +71,6 @@ Feel free to fork this repository and submit issues or pull requests if you want
 ## Acknowledgments:
 - `googletrans` library for the translation functionality.
 - `pyttsx3` library for the text-to-speech feature.
-```
-
-### Explanation of the README sections:
-1. **Project Overview**: Brief description of the project and its core functionality.
-2. **Prerequisites**: Lists the required versions of Python and libraries.
-3. **Installation**: Provides the cloning and installation instructions.
-4. **Usage**: Step-by-step guide on how to use the script.
-5. **License**: Mentions that the project is under the MIT license (you can replace this with your actual license if you prefer).
-6. **Contributing**: Encourages others to contribute by forking the repository or submitting issues and pull requests.
-7. **Acknowledgments**: Credits to the libraries used in the project.
 
 ### How to Use:
 1. Clone the repo.
