@@ -72,9 +72,3 @@ Feel free to fork this repository and submit issues or pull requests if you want
 - `googletrans` library for the translation functionality.
 - `pyttsx3` library for the text-to-speech feature.
 
-### How to Use:
-1. Clone the repo.
-2. Install the dependencies.
-3. Run the Python script, and the translation with pronunciation will be spoken aloud.
-
-This README provides clear instructions on how to set up and use your project on GitHub.
